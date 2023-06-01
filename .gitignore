@@ -4,4 +4,4 @@ R10m/
 R20m/
 R60m/
 *.vrt
-
+.ipynb_checkpoints/
