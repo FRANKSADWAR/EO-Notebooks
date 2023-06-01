@@ -1,0 +1,7 @@
+*.tif
+*.tiff
+R10m/
+R20m/
+R60m/
+*.vrt
+
